@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  support: one
+  account: one
+  account: one
+  narration: MyString
+  employee: one
+  employee: one
+
+two:
+  support: two
+  account: two
+  account: two
+  narration: MyString
+  employee: two
+  employee: two
